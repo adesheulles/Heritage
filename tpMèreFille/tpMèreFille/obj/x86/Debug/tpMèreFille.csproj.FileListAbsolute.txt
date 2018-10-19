@@ -1,0 +1,8 @@
+U:\slam4\tpMèreFille\tpMèreFille\bin\Debug\tpMèreFille.exe
+U:\slam4\tpMèreFille\tpMèreFille\bin\Debug\tpMèreFille.pdb
+U:\slam4\tpMèreFille\tpMèreFille\obj\x86\Debug\tpMèreFille.Mere.resources
+U:\slam4\tpMèreFille\tpMèreFille\obj\x86\Debug\tpMèreFille.Properties.Resources.resources
+U:\slam4\tpMèreFille\tpMèreFille\obj\x86\Debug\tpMèreFille.csproj.GenerateResource.Cache
+U:\slam4\tpMèreFille\tpMèreFille\obj\x86\Debug\tpMèreFille.exe
+U:\slam4\tpMèreFille\tpMèreFille\obj\x86\Debug\tpMèreFille.pdb
+U:\slam4\tpMèreFille\tpMèreFille\obj\x86\Debug\tpMèreFille.Fille.resources
