@@ -20,7 +20,10 @@ Le but de ce tp est de pouvoir créer de nouvelle fenêtre qui seront stocker da
  # Création ,stokage et suppression des fenêtre fille
  A chaque fois que l'on apruit sur le bouton new un objet fille est créer puis stocker dans un liste dynamique, une foit qu'une fenêtre fille est suprimmer on la retire de la liste.
  
+ ![merrefille1.png](https://github.com/adesheulles/tp-Mere-Fille/blob/master/merefille1.PNG)
  # Affichage et fermeture des fenêtre
  Quand on apuis sur le bouton show la fenêtre fille sélectionner s'affiche pour la fermer on apuis sur le bouton hide ou sur la croit de la fenêtre.
+ 
+ ![merreFille.png](https://github.com/adesheulles/tp-Mere-Fille/blob/master/mereFille.PNG)
  
 
