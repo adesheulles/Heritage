@@ -17,6 +17,9 @@ Le but de ce tp est de pouvoir créer de nouvelle fenêtre qui seront stocker da
 |Création ,stokage et suppression des fenêtre fille |c#|programmation objet|
 |Affichage et fermeture des fenêtre|c#|programmation objet|
  
+ # Diagramme de classes
+  ![diagramme de classe.png](https://github.com/adesheulles/tp-Mere-Fille/blob/master/diagramme de classe.PNG)
+ 
  # Création ,stokage et suppression des fenêtre fille
  A chaque fois que l'on apuit sur le bouton new un objet fille est crée puis stocké dans une liste dynamique, une foit qu'une fenêtre fille est suprimmer on la retire de la liste.
  
